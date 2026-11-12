@@ -1,6 +1,6 @@
 # Sphere
 
-Signed, notarized builds of Sphere, a voice and AI assistant for macOS. Sphere installs from here and updates itself from here.
+Signed, notarized builds of Sphere.
 
 ## Install
 
